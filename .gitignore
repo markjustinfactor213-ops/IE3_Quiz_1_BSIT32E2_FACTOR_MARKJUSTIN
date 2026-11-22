@@ -56,3 +56,8 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 /.idea/
+
+# Visual Studio temporary files
+.vs/
+bin/
+obj/
